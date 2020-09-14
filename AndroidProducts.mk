@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gtaxllte.mk
+    $(LOCAL_DIR)/lineage_j5y17lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gtaxllte-userdebug
+    lineage_j5y17lte-userdebug
