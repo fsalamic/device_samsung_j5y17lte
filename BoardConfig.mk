@@ -274,3 +274,5 @@ BOARD_SEPOLICY_DIRS := $(LOCAL_PATH)/sepolicy
 
 # Inherit from the proprietary version
 -include vendor/samsung/j5y17lte/BoardConfigVendor.mk
+
+TEMPORARY_DISABLE_PATH_RESTRICTIONS=true
